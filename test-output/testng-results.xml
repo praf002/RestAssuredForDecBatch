@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-24T20:37:17 IST" name="Default suite" finished-at="2021-12-24T20:37:20 IST" duration-ms="3017">
+    <groups>
+    </groups>
+    <test started-at="2021-12-24T20:37:17 IST" name="Default test" finished-at="2021-12-24T20:37:20 IST" duration-ms="3017">
+      <class name="APITutorial3.PostDemo">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:APITutorial3.PostDemo@258e2e41]" started-at="2021-12-24T20:37:17 IST" name="setUp" finished-at="2021-12-24T20:37:20 IST" duration-ms="2324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateStatusCode()[pri:1, instance:APITutorial3.PostDemo@258e2e41]" started-at="2021-12-24T20:37:20 IST" name="validateStatusCode" finished-at="2021-12-24T20:37:20 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatusCode -->
+        <test-method signature="validateStatusLine()[pri:2, instance:APITutorial3.PostDemo@258e2e41]" started-at="2021-12-24T20:37:20 IST" name="validateStatusLine" finished-at="2021-12-24T20:37:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatusLine -->
+        <test-method signature="validateContentHeader()[pri:3, instance:APITutorial3.PostDemo@258e2e41]" started-at="2021-12-24T20:37:20 IST" name="validateContentHeader" finished-at="2021-12-24T20:37:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContentHeader -->
+        <test-method signature="validateAllHeaders()[pri:4, instance:APITutorial3.PostDemo@258e2e41]" started-at="2021-12-24T20:37:20 IST" name="validateAllHeaders" finished-at="2021-12-24T20:37:20 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAllHeaders -->
+        <test-method signature="validateResposeBody()[pri:5, instance:APITutorial3.PostDemo@258e2e41]" started-at="2021-12-24T20:37:20 IST" name="validateResposeBody" finished-at="2021-12-24T20:37:20 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResposeBody -->
+        <test-method signature="validategetResponseBody()[pri:6, instance:APITutorial3.PostDemo@258e2e41]" started-at="2021-12-24T20:37:20 IST" name="validategetResponseBody" finished-at="2021-12-24T20:37:20 IST" duration-ms="621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validategetResponseBody -->
+      </class> <!-- APITutorial3.PostDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
